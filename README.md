@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 😄 Who's am I? 
+## 😄 Who am I? 
 
 My name is Sidd Mittal and I'm a Systems Design Engineering Student at the University of Waterloo. My pronouns are he/him. Through my past internships, I've garnered a passion for product development. From concept to release, I really enjoy going through the design and development process to create a product that will truly make someone's life easier. I crave impact in everything I do and I always love a good challenge :) 
 
