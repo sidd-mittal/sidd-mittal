@@ -35,7 +35,7 @@ Learned a ton about microservice architecture, AWS tools and testing infrastruct
 
 ### 🛠 [Bidmii International](https://bidmii.com)
 
-Worked with a tight-knit team of 6 developers to develop an online marketplace for homeowners. This was my first internship, and right from the start, I was thrown in the deep-end of React and Java code. I learned a lot about the semantics of front-end development and scoping out projects planning to production. 
+Worked with a tight-knit team of 6 developers to develop an online marketplace for homeowners. This was my first internship, and right from the start, I was thrown in the deep-end of React and Java code. I learned a lot about the semantics of front-end development and scoping out projects from planning to production. 
 
 ## 📬 How to Reach Me! 
 
