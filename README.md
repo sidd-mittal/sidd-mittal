@@ -25,15 +25,24 @@ I'm currently working on gaining my certificate as a AWS Certified Cloud Practio
 
 ## 💻 Past Internships
 
-### WSIB Innovation Lab 
+### 🧪 [WSIB Innovation Lab](https://www.wsib-lab.ca)
 
-Worked on the end-to-end development of Ontario's first mobile app that allows workers to submit an injury claim. This was a really rewarding experience as my team and I took complete control over every aspect of this project – from choosing the tech stack, to planning architecture diagrams/design patterns, developing features, and releasing the first MVP.  
+- Worked on the end-to-end development of Ontario's first mobile app that allows workers to submit an injury claim. This was a really rewarding experience as my team and I took complete control over every aspect of this project – from choosing the tech stack, to planning architecture diagrams/design patterns, developing features, and releasing the first MVP.  
 
-### Genesys 
+### 🏎 [Genesys](https://www.genesys.com/genesys-cloud)
 
-Learned a ton about microservice architecture, AWS tools and testing infrastructure. I was also able to learn from some incredibly knowledgeable mentors about industry-standard coding, and I really appreciated how supportive and friendly everyone in the company was. 
+- Learned a ton about microservice architecture, AWS tools and testing infrastructure. I was also able to learn from some incredibly knowledgeable mentors about industry-standard coding, and I really appreciated how supportive and friendly everyone in the company was. 
 
-### Bidmii Internationalh
+### 🛠 [Bidmii International](https://bidmii.com)
 
-Worked with a tight-knit team of 6 developers to develop an online marketplace for homeowners. This was my first internship, and right from the start, I was thrown in the deep-end of React and Java code. I learned a lot about the semantics of front-end development and scoping out projects planning to production. 
+- Worked with a tight-knit team of 6 developers to develop an online marketplace for homeowners. This was my first internship, and right from the start, I was thrown in the deep-end of React and Java code. I learned a lot about the semantics of front-end development and scoping out projects planning to production. 
+
+## 📬 How to Reach Me! 
+
+Linkedin: https://www.linkedin.com/in/siddmittal/
+Email: siddmittal@uwaterloo.ca 
+
+- Feel free to reach out to me to chat about anything tech/e-sports related or for my resume :) 
+
+
 
