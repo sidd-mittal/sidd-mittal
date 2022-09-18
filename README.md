@@ -21,7 +21,7 @@ My name is Sidd Mittal and I'm a Systems Design Engineering Student at the Unive
 
 ## 🔭 What am I currently working on/learning? 
 
-I'm currently working on gaining my certificate as a AWS Certified Cloud Practioner. As someone interested in designing the infrastrucutre and backend of applications, I believe it is extremely important to understand cloud computing as it is becoming so widely used in the industry. 
+I'm currently working on gaining my certificate as a AWS Certified Cloud Practioner. As someone interested in designing the infrastructure and backend of applications, I believe it is extremely important to understand cloud computing as it is becoming so widely used in the industry. 
 
 ## 💻 Past Internships
 
