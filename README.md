@@ -1,4 +1,4 @@
-# Hi there, my name is Sidd Mittal (he/him) 👋
+# Hi there, I'm Sidd (he/him) 👋
 
 <!--
 **sidd-mittal/sidd-mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
