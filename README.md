@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 
 ## 😄 Who am I? 
 
-My name is Sidd Mittal and I'm a Systems Design Engineering Student at the University of Waterloo. Through my past internships, I've garnered a passion for product development. From concept to release, I really enjoy going through the design and development process to create a product that will truly make someone's life easier. I crave impact in everything I do and I always love a good challenge :) 
+My name is Sidd Mittal and I'm a Systems Design Engineering Student at the University of Waterloo. Through my past internships, I've garnered a passion for both product and backend development. From concept to release, I really enjoy going through the design and development process to create a product that will truly make someone's life easier. I crave impact in everything I do and I always love a good challenge :) 
 
 ## 🔭 What am I currently working on/learning? 
 
 I'm currently working on gaining my certificate as a AWS Certified Cloud Practioner. As someone interested in designing the infrastructure and backend of applications, I believe it is extremely important to understand cloud computing as it is becoming so widely used in the industry. 
 
 ## 💻 Past Internships
+
+### 🐕 [Zynga](https://www.zynga.com)
+
+Had a ton of fun diving into the data world at Zynga with the data ingestion team. I got to roll up my sleeves and design a heartbeat injector microservice, which became our trusty watchdog for monitoring pipeline flow. We successfully extracted attributes relating to latency and throughput, with a learning spree on AWS Kinesis, Lambda, Datadog, and Terraform. Go became a new language I could converse in, all while learning from some of the sharpest and most talented engineers I’ve ever met.
 
 ### 🧪 [WSIB Innovation Lab](https://www.wsib-lab.ca)
 
@@ -42,7 +46,7 @@ Worked with a tight-knit team of 6 developers to develop an online marketplace f
 - Linkedin: https://www.linkedin.com/in/siddmittal/
 - Email: siddmittal@uwaterloo.ca 
 
-Feel free to reach out to me to chat about anything tech/e-sports related or for my resume :) 
+Feel free to reach out to me to chat about anything or for my resume :) Always down to chat about soccer, e-sports, or music recs 😅
 
 
 
